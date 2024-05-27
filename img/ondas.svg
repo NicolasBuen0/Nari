@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 8192 1486.2" style="enable-background:new 0 0 8192 1486.2;" xml:space="preserve">
+  <defs>
+    <rect id="SVGID_1_" transform="matrix(-1 -4.489665e-11 4.489665e-11 -1 8192 1486.2222)" width="8192" height="1486.2"/>
+    <linearGradient id="grad1" gradientTransform="rotate(45)">
+      <stop offset="0%" style="stop-color:#b78628;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#efd7ab;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#efdecb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <clipPath id="SVGID_2_">
+    <use xlink:href="#SVGID_1_" style="overflow:visible;"/>
+  </clipPath>
+  <g class="st0">
+    <path style="fill:url(#grad1);" d="M2494.5,1507.6v-353.1c1359.7,224.6,1738.1-461.1,3204.2-756.7s2885,496.6,2885,496.6l-32.5,613.2H2494.5z"/>
+     <path style="fill:url(#grad1);" d="M-1288.3,1507.6c3.7-129,6.6-214.9,6.6-214.9c1461.5-1713,4038.8-377.2,6710.4,31.4S8949,679.7,8949,679.7    l58.7,827.8H-1288.3z"/>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+.size {
+    font: 300 1.1rem "Playfair Display", serif;
+}
+
+.size-b {
+    font: 500 1.2rem "Playfair Display", serif;
+}
+
+
+.font-1-300 {
+    font: 300 1.5rem "Playfair Display", serif;
+  
+}
+
+
+.font-1-400 {
+    font: 400 1.3rem "Playfair Display", serif;
+
+
+}
+
+.font-1-400-s {
+    font: 400 1.2rem "Playfair Display", serif;
+}
+
+.font-1-400-m {
+    font: 400 1.rem "Playfair Display", serif;
+}
+
+.font-2 {
+    font: 3.5rem "Great Vibes", cursive;
+  
+}
+
+.font-2-a {
+    font: 4.2rem "Great Vibes", cursive !important;
+    
+}
+
+
+
