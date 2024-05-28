@@ -1,10 +1,3 @@
-.size {
-    font: 300 1.1rem "Playfair Display", serif;
-}
-
-.size-b {
-    font: 500 1.2rem "Playfair Display", serif;
-}
 
 
 .font-1-300 {
@@ -12,30 +5,31 @@
   
 }
 
-
-.font-1-400 {
-    font: 400 1.3rem "Playfair Display", serif;
-
-
-}
-
 .font-1-400-s {
     font: 400 0.9rem "Playfair Display", serif;
+    
 }
 
 .font-1-400-m {
-    font: 400 1.rem "Playfair Display", serif;
+    font: 400 1rem "Playfair Display", serif;
+
 }
 
 .font-2 {
     font: 400 2.8rem  "WindSong", cursive;
+
+    
   
 }
 
 .font-2-a {
     font: 2.5rem "Great Vibes", cursive !important;
-    
+     
 }
 
 
 
+@font-face {
+    font-family: HighSpirited;
+    src: url("HighSpirited.ttf");
+}

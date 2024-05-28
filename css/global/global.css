@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
     overflow-x: hidden;
-    background-color: #FFFAF1;
+    background-color: #FFFDF9;
 }
 
 h1,
@@ -110,8 +110,8 @@ a {
 
 :root {
  
-  --cor-primaria: #FEBB24; 
-  --cor-segundaria: #BE692E;
+  --cor-primaria: #A07351; 
+  --cor-segundaria: #A07351;
 
 }
 
