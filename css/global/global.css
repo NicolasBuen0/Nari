@@ -131,3 +131,20 @@ a {
   animation: rotateHorizontal 3s ease-in-out infinite alternate;
   transform-origin: center;
 }
+
+
+
+
+.flag-container {
+  width: 200px; /* ajuste conforme necessário */
+  height: 150px; /* ajuste conforme necessário */
+  background: linear-gradient(45deg, #b78628, #efd7ab, #efdecb);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flag-svg {
+  width: 80%; /* ajuste conforme necessário */
+  height: auto;
+}
