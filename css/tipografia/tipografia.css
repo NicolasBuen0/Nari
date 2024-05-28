@@ -20,7 +20,7 @@
 }
 
 .font-1-400-s {
-    font: 400 1.2rem "Playfair Display", serif;
+    font: 400 0.9rem "Playfair Display", serif;
 }
 
 .font-1-400-m {
@@ -28,12 +28,12 @@
 }
 
 .font-2 {
-    font: 3.5rem "Great Vibes", cursive;
+    font: 400 2.8rem  "WindSong", cursive;
   
 }
 
 .font-2-a {
-    font: 4.2rem "Great Vibes", cursive !important;
+    font: 2.5rem "Great Vibes", cursive !important;
     
 }
 
