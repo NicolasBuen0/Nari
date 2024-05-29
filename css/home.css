@@ -392,11 +392,10 @@ color: var(--cor-segundaria);
 }
 
 .linksite{
-    font: 400 0.7rem "Roboto Slab", serif;
+    font: 400 0.9rem "Roboto Slab", serif;
     color: #FFF8EA;
     padding: 10px;
 }
-
 
 
 .chamada .bandeira_container{
