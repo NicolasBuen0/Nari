@@ -384,4 +384,7 @@ color: var(--cor-segundaria);
 
 .final{
     padding-bottom: 50px;
+    width: 100%;
+    max-width: 800px;
+
 }
