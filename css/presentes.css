@@ -6,13 +6,15 @@
 
 .presentes::before{
   content: "";
-  background: url("../img/ondas-2.svg");
+  background: url("../img/ondas.svg");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
  top: 0;
   width: 100%;
   height: 200px;
+  
+ 
 }
 
 .presentes p:nth-child(2){

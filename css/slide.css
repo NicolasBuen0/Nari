@@ -1,19 +1,24 @@
 .slider {
-  padding-top: 200px;
+  padding-top: 50px;
   margin: 0 auto;
  max-width: 1200px;
  position: relative;
  padding-bottom: 50px;
+ display: flex;
+align-items: center;
+justify-content: center;
+  flex-direction: column;
 
 
  
 }
 
 .slide_viewer {
+  width: 333px;
   height: 500px;
   overflow: hidden;
   position: relative;
-  
+
   
 }
 .slide:first-child {

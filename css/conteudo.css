@@ -17,36 +17,35 @@
     flex-direction: column;
     padding-bottom: 50px;
     z-index: 1;
-
-
+  
   
 }
 
-/* .conteudo::after{
+.conteudo::after{
  content: "";
  position: absolute;
- background-image: url("../img/ondas.svg");
+ background-image: url("../img/decoracao.png");
  width: 100%;
  background-repeat: no-repeat;
- height: 100%;
- top: -150px;
+ height: 55px;
+background-position: center;
+ top:  120px !important;
+}
 
 
-} */
-@media(max-width:900px) {
-    .conteudo::after{
-        top: -100px;
-       }
-    }
-@media(max-width:600px) {
-    .conteudo::after{
-        top: -40px;
-       }
-    }
 
+.conteudo::before{
+    content: "";
+    position: absolute;
+    background-image: url("../img/decoracao.png");
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 55px;
+    bottom: 0;
+   background-position: center;
 
-  
-
+   }
+   
 
 
 .conteudo .img_casal{
