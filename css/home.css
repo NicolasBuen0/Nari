@@ -381,3 +381,7 @@ color: var(--cor-segundaria);
     padding-bottom: 20px;
     width: 80px;
 }
+
+.final{
+    padding-bottom: 50px;
+}
