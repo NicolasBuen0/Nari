@@ -357,7 +357,9 @@ width: 100%;
 
 
 .chamada{
+
     margin-top: 50px;
+    padding-bottom: 50px;
 }
 
 
@@ -386,5 +388,17 @@ color: var(--cor-segundaria);
     padding-bottom: 50px;
     width: 100%;
     max-width: 800px;
+
+}
+
+.linksite{
+    font: 400 1rem "Roboto Slab", serif;
+    color: #FFF8EA;
+    padding: 10px;
+}
+
+
+.chamada .bandeira_container{
+    padding-top: 0;
 
 }

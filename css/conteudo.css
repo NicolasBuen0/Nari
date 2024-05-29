@@ -24,7 +24,7 @@
 .conteudo::after{
  content: "";
  position: absolute;
- background-image: url("../img/decoracao.png");
+ background-image: url("../img/decoracao.svg");
  width: 100%;
  background-repeat: no-repeat;
  height: 55px;
@@ -37,7 +37,7 @@ background-position: center;
 .conteudo::before{
     content: "";
     position: absolute;
-    background-image: url("../img/decoracao.png");
+    background-image: url("../img/decoracao.svg");
     width: 100%;
     background-repeat: no-repeat;
     height: 55px;
